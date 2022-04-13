@@ -18,7 +18,7 @@ function nameGreeting (name) {
     return "Hello " + name;
 }
 
-console.log(nameGreeting("Dominic"));
+console.log(nameGreeting("Dominic Simpson"));
 
 
 // What type? 
